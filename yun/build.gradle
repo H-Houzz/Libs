@@ -51,4 +51,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     //utilcode工具类androidx使用，使用说明 https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md
     api 'com.blankj:utilcodex:1.30.5'
+    implementation 'com.tencent:mmkv-static:1.2.7'
 }
